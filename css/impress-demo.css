@@ -255,7 +255,7 @@ a:focus {
 }
 
 #title .try {
-    font-size: 64px;
+    font-size: 30px;
     position: absolute;
     top: -0.5em;
     left: 1.5em;
@@ -268,7 +268,7 @@ a:focus {
 }
 
 #title h1 {
-    font-size: 190px;
+    font-size: 90px;
 
     -webkit-transform: translateZ(50px);
     -moz-transform:    translateZ(50px);
@@ -278,7 +278,7 @@ a:focus {
 }
 
 #title .footnote {
-    font-size: 32px;
+    font-size: 45px;
 }
 
 /*
@@ -301,14 +301,14 @@ a:focus {
 }
 
 #big .thoughts {
-    font-size: 90px;
-    line-height: 150px;
+    font-size: 60px;
+    line-height: 105px;
 }
 
 /*
     'Tiny ideas' just need some tiny styling.
 */
-#tiny {
+.tiny {
     width: 500px;
     text-align: center;
 }
